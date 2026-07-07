@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data and experiment outputs
+data/
+outputs/
+vector_store/
+*.csv
+!officeqa_sample.csv
